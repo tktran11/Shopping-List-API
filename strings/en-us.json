@@ -1,0 +1,42 @@
+{
+  "mailgun_failed_load_api_key": "Failed to load Mailgun API Key.",
+  "mailgun_failed_load_domain": "Failed to load Mailgun domain.",
+  "mailgun_error_sending_email": "Error in sending confirmation email. Registration failed.",
+
+  "confirmation_not_found": "Attempted confirmation not found.",
+  "confirmation_already_expired": "The confirmation link has expired.",
+  "confirmation_already_confirmed": "Registration already confirmed.",
+  "confirmation_resent": "Resent confirmation email. Check your inbox.",
+  "confirmation_resend_failure": "Internal server error. Confirmation resend failed.",
+
+  "user_name_already_exists": "A user with that username already exists.",
+  "user_email_already_exists": "A user with that email already exists.",
+  "user_not_found": "User not found.",
+  "user_deleted": "User deleted.",
+  "user_invalid_credentials": "Invalid credentials.",
+  "user_logged_out": "User <id={}> successfully logged out.",
+  "user_not_confirmed_error": "You have not confirmed registration, please check your email <{}>.",
+  "user_creation_success": "Account created successfully, an activation link has been sent to your email address.",
+  "user_creation_failure": "Internal server error. User could not be created.",
+
+  "image_uploaded": "Image '{}' successfully uploaded.",
+  "image_illegal_extension": "The extension '{}' is not allowed.",
+  "image_illegal_filename": "Illegal filename was requested.",
+  "image_not_found": "Image was not found.",
+  "image_deleted": "Image '{}' successfully deleted.",
+  "image_delete_failed": "Internal server error. Image could not be deleted.",
+
+  "profile_delete_failed": "Internal server error. Profile image could not be deleted.",
+  "profile_uploaded": "Profile picture successfully uploaded.",
+  "profile_not_found": "Profile picture not found.",
+
+  "item_name_already_exists": "An item with name '{}' already exists.",
+  "item_error_inserting": "An error occurred while inserting the item.",
+  "item_not_found": "Item not found.",
+  "item_deleted": "Item deleted.",
+
+  "shop_list_name_already_exists": "A shopping list with name '{}' already exists.",
+  "shop_list_error_inserting": "An error occurred while inserting the shopping list.",
+  "shop_list_not_found": "Shopping list not found.",
+  "shop_list_deleted": "Shopping list deleted."
+}
