@@ -1,5 +1,5 @@
 __pycache__/
-.env.example
+.env
 *.pyc
 data.db
 .idea/
